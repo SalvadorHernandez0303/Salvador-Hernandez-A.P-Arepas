@@ -1,6 +1,6 @@
-# [Your Name]'s GitHub Profile
+# Salvador Hernández's GitHub Profile
 
-Hello! I'm Salvador Hernández, a student of Mechanical Engineering from Venezuela. I'm passionate about coding and I use it as a tool to expand my knowledge. This profile is part of my university activities.
+Hello! I'm Salvador Hernández, a student of Mechanical Engineering from Venezuela. I'm passionate about coding and I use it as a tool to expand my knowledge. This profile is part of my university activities and later will be use as my personal space here in Github.
 
 ## About Me
 
