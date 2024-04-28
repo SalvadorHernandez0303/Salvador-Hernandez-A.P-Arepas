@@ -18,7 +18,7 @@ Hello! I'm Salvador Hernández, a student of Mechanical Engineering from Venezue
 
 Here are some of my projects:
 
-1. [Arepas]((https://github.com/SalvadorHernandez0303/Salvador-Hernandez-A.P-Arepas/blob/main/Arepas.py))
+1. [Arepas](https://github.com/SalvadorHernandez0303/Salvador-Hernandez-A.P-Arepas/blob/main/Arepas.py)
 
 
 ## Contact Me
